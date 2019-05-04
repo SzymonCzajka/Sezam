@@ -1,0 +1,1 @@
+This version of my robot has distance sensor installed on servomechanizm. When sensor locate an obstacle, robot is checking if it's any obstacles on right and if not it's turning right. Howver, when it is any obstacle on right side, the robot is checking left side and it's turning left.
